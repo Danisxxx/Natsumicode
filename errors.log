@@ -1,0 +1,11 @@
+2024-07-25 14:58:58.201567 - Error en save_key: table keys has no column named expiration
+2024-07-25 14:59:25.234678 - Error en save_key: table keys has no column named expiration
+2024-07-25 14:59:25.251126 - Error en save_key: table keys has no column named expiration
+2024-07-25 14:59:25.262443 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:02:42.479153 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:02:42.487737 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:02:42.498841 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:06:28.828512 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:06:28.836562 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:06:28.844121 - Error en save_key: table keys has no column named expiration
+2024-07-25 15:07:56.619845 - Error al reclamar llave: name 'get_key' is not defined
